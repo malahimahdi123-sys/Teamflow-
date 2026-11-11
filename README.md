@@ -2,6 +2,7 @@
 
 TeamFlow is a team management and collaboration platform.
 
+
 ## Technologies
 
 - Frontend: React + TypeScript
@@ -12,4 +13,4 @@ TeamFlow is a team management and collaboration platform.
 
 - frontend/: React application
 - backend/: FastAPI application
-- docs/: Project documentation
+- docs/: Project documentationcs 
